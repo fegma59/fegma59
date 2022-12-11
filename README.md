@@ -21,10 +21,14 @@
   <img align="center" alt="fegma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fegma-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="fegma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fegma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fegma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fegma-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img align="center" alt="fegma-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+   <img align="center" alt="fegma-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="fegma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="fegma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="fegma-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="fegma-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="fegma-Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
+  <img align="center" alt="fegma-Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
 
 ##
