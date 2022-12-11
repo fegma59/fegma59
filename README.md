@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Felipe Guimarães, a Brazilian System Engineer focused on Cybersecurity.
 
-🔭 I currently work with Cybersecurity, but I am passionate about Application Development, Programming, Software Architecture, Distributed Computing and much more.
-🌱 I’m currently learning Big Data and Artificial Intelligence.
-🚧 I'm looking to collaborate on good projects with a good purpose.
-🤔 I’m looking for help with good code designs.
-💬 Ask me about Cybersecurity issues.
-⚡ Fun fact: I'm a American Football player in Brazil, a violinist and addicted to studying.
+🔭 I currently work with Cybersecurity, but I am passionate about Application Development, Programming, Software Architecture, Distributed Computing and much more.<p>
+🌱 I’m currently learning Big Data and Artificial Intelligence.<p>
+🚧 I'm looking to collaborate on good projects with a good purpose.<p>
+🤔 I’m looking for help with good code designs.<p>
+💬 Ask me about Cybersecurity issues.<p>
+⚡ Fun fact: I'm a American Football player in Brazil, a violinist and addicted to studying.<p>
 
 ##
 
