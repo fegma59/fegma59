@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Felipe Guimarães, a Brazilian System Engineer focused on Cybersecurity.
 
-🔭 I currently work with Cybersecurity, but I am passionate about Application Development, Programming, Software Architecture, Distributed Computing and much more.<p>
+🔭 I'm currently work with Cybersecurity, but I'm a passionate about Application Development, Programming, Software Architecture, Distributed Computing and much more.<p>
 🌱 I’m currently learning Big Data and Artificial Intelligence.<p>
 🚧 I'm looking to collaborate on good projects with a good purpose.<p>
 🤔 I’m looking for help with good code designs.<p>
